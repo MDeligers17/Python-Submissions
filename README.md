@@ -1,2 +1,3 @@
-# Python-Submissions
-Homework1-Submitted on: Tuesday (March 19,2019) 9:10AM
+# Python Submissions
+Homework 1
+  Submitted on: Tuesday (March 19,2019) 09:15AM
